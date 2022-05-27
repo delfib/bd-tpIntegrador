@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Delfina\\OneDrive\\Escritorio\\UNRC\\TERCER AÑO\\1° Cuatrimestre (Base de Datos)\\mysql-connector-java-8.0.20.jar"
+    ]
+}
